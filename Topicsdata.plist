@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Topics</key>
+	<array>
+		<dict>
+			<key>TopicName</key>
+			<string>Synonyms</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>often</string>
+					<key>options</key>
+					<array>
+						<string>sometimes</string>
+						<string>rarely</string>
+						<string>frequently</string>
+						<string>hardley</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>mounted</string>
+					<key>options</key>
+					<array>
+						<string>climbed</string>
+						<string>took</string>
+						<string>tapped</string>
+						<string>moved</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>hypocrisy</string>
+					<key>options</key>
+					<array>
+						<string>applaue</string>
+						<string>insincerity</string>
+						<string>truthful</string>
+						<string>criticism</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>compatriot</string>
+					<key>options</key>
+					<array>
+						<string>foreigner</string>
+						<string>patriot</string>
+						<string>countryman</string>
+						<string>alien</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>fatuous</string>
+					<key>options</key>
+					<array>
+						<string>obese</string>
+						<string>absurd</string>
+						<string>pompous</string>
+						<string>sensible</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>urbane</string>
+					<key>options</key>
+					<array>
+						<string>polite</string>
+						<string>urban</string>
+						<string>rural</string>
+						<string>impolite</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>zest</string>
+					<key>options</key>
+					<array>
+						<string>zap</string>
+						<string>wonder</string>
+						<string>enthusiasm</string>
+						<string>surprise</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>abandon</string>
+					<key>options</key>
+					<array>
+						<string>discard</string>
+						<string>hate</string>
+						<string>loathe</string>
+						<string>accord</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>adversity</string>
+					<key>options</key>
+					<array>
+						<string>progress</string>
+						<string>reverse</string>
+						<string>difficulty</string>
+						<string>happiness</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>affluent</string>
+					<key>options</key>
+					<array>
+						<string>fluent</string>
+						<string>poor</string>
+						<string>inarticulate</string>
+						<string>rich</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>Antonyms</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>abet</string>
+					<key>options</key>
+					<array>
+						<string>prevent</string>
+						<string>aid</string>
+						<string>encourage</string>
+						<string>bet</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>acquit</string>
+					<key>options</key>
+					<array>
+						<string>release</string>
+						<string>quit</string>
+						<string>convict</string>
+						<string>acquire</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>busy</string>
+					<key>options</key>
+					<array>
+						<string>occupied</string>
+						<string>engrossed</string>
+						<string>engaged</string>
+						<string>relaxed</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>unruly</string>
+					<key>options</key>
+					<array>
+						<string>obedient</string>
+						<string>patriot</string>
+						<string>chatting</string>
+						<string>definite</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>attack</string>
+					<key>options</key>
+					<array>
+						<string>defended</string>
+						<string>shoot</string>
+						<string>hit</string>
+						<string>product</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>advance</string>
+					<key>options</key>
+					<array>
+						<string>money</string>
+						<string>retreate</string>
+						<string>debt</string>
+						<string>back</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>attack</string>
+					<key>options</key>
+					<array>
+						<string>defended</string>
+						<string>shoot</string>
+						<string>hit</string>
+						<string>product</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>absurd</string>
+					<key>options</key>
+					<array>
+						<string>foolish</string>
+						<string>incongruous</string>
+						<string>brilliant</string>
+						<string>reasonable</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>ample</string>
+					<key>options</key>
+					<array>
+						<string>large</string>
+						<string>meagre</string>
+						<string>spacious</string>
+						<string>current</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>cautious</string>
+					<key>options</key>
+					<array>
+						<string>careful</string>
+						<string>carefree</string>
+						<string>negligent</string>
+						<string>negligible</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>One Word Substitutes</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>An office with high salary but no work </string>
+					<key>options</key>
+					<array>
+						<string>Sinecure</string>
+						<string>Gratis</string>
+						<string>Honorary</string>
+						<string>Management</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A member of middle class</string>
+					<key>options</key>
+					<array>
+						<string>Middlemen</string>
+						<string>Labourer</string>
+						<string>Manager</string>
+						<string>Bourgeois</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A man devoid of kind feeling and sympathy</string>
+					<key>options</key>
+					<array>
+						<string>Callous</string>
+						<string>Apathy</string>
+						<string>Emotional</string>
+						<string>Carefree</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A drug or a substace that induces dwoesiness</string>
+					<key>options</key>
+					<array>
+						<string>Mesmerize</string>
+						<string>Narcotic</string>
+						<string>Soporific</string>
+						<string>Hyponotize</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A person who knows everything</string>
+					<key>options</key>
+					<array>
+						<string>Omnipotent</string>
+						<string>Omnipresent</string>
+						<string>Omniscient</string>
+						<string>Omnivorous</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A person who knows everything</string>
+					<key>options</key>
+					<array>
+						<string>Omnipotent</string>
+						<string>Omnipresent</string>
+						<string>Omniscient</string>
+						<string>Omnivorous</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A person who knows everything</string>
+					<key>options</key>
+					<array>
+						<string>Omnipotent</string>
+						<string>Omnipresent</string>
+						<string>Omniscient</string>
+						<string>Omnivorous</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A person who knows everything</string>
+					<key>options</key>
+					<array>
+						<string>Omnipotent</string>
+						<string>Omnipresent</string>
+						<string>Omniscient</string>
+						<string>Omnivorous</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A person who knows everything</string>
+					<key>options</key>
+					<array>
+						<string>Omnipotent</string>
+						<string>Omnipresent</string>
+						<string>Omniscient</string>
+						<string>Omnivorous</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A person who knows everything</string>
+					<key>options</key>
+					<array>
+						<string>Omnipotent</string>
+						<string>Omnipresent</string>
+						<string>Omniscient</string>
+						<string>Omnivorous</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>Fill in the blanks</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>A true hero is one who ..... his life to ...... others in real life</string>
+					<key>options</key>
+					<array>
+						<string>gives, for</string>
+						<string>donates, help</string>
+						<string>Sacrifices, please</string>
+						<string>risks, save</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Get your professor&apos;s ........ on which course you should choose</string>
+					<key>options</key>
+					<array>
+						<string>advice</string>
+						<string>advise</string>
+						<string>teaching</string>
+						<string>lesson</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>I like ...... to various places.</string>
+					<key>options</key>
+					<array>
+						<string>travelling</string>
+						<string>migrating</string>
+						<string>running</string>
+						<string>enjoying </string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>A leader who thinks that he has all the answers will have a negative ......... on his followers.</string>
+					<key>options</key>
+					<array>
+						<string>contact</string>
+						<string>status</string>
+						<string>impact</string>
+						<string>feeling</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The leaders that i admire are ........ who listen.</string>
+					<key>options</key>
+					<array>
+						<string>someone</string>
+						<string>person</string>
+						<string>perhaps</string>
+						<string>those</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The truth is that nobody ........ smart and capable has all the answers.</string>
+					<key>options</key>
+					<array>
+						<string>more</string>
+						<string>hower</string>
+						<string>despite</string>
+						<string>still</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>To ...... a good leader, you alo have to encourage people to speak up.</string>
+					<key>options</key>
+					<array>
+						<string>elect</string>
+						<string>be</string>
+						<string>want</string>
+						<string>establish</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>People should not be afraid of you because leading by .......... will only result in disaster</string>
+					<key>options</key>
+					<array>
+						<string>fear</string>
+						<string>front</string>
+						<string>choice</string>
+						<string>example</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>It is not real leadership and you will never get people to perform at their ....... capabilities.</string>
+					<key>options</key>
+					<array>
+						<string>favorite</string>
+						<string>high</string>
+						<string>successful</string>
+						<string>thorough</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Though most of us know him ......... for his lightening and kite experiment, Ben Franklin was first and ...... a printer</string>
+					<key>options</key>
+					<array>
+						<string>except,previous</string>
+						<string> best,foremost</string>
+						<string>hardly,only</string>
+						<string>sometimes,lastly</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>Idioms and Phrases</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>Ever since he moved intohis penthouse, he has become A COUCH POTATO</string>
+					<key>options</key>
+					<array>
+						<string>Do nothing the whole day</string>
+						<string>sit lazily and watch TV</string>
+						<string>Unable to walk</string>
+						<string>risks, save</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Salman&apos;s travelogues were always FULL OF HOT AIR</string>
+					<key>options</key>
+					<array>
+						<string>very entertaining</string>
+						<string>adventurous</string>
+						<string>counsisting of horrible incidents</string>
+						<string>full of nonsense</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>He LIVES IN AN IVORY TOWER but talks as if he knows everything about student life</string>
+					<key>options</key>
+					<array>
+						<string>Live in a wealthy life</string>
+						<string>aloof from realities of life</string>
+						<string>Lonely person with no friends</string>
+						<string>Silent person</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Throughout the fight, Ram managed to maintain A POKER FACE</string>
+					<key>options</key>
+					<array>
+						<string>Face showing anger</string>
+						<string>Expressionless</string>
+						<string>Mocking reaction</string>
+						<string>Face full of sorrow</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The captain ordered us to PIPE DOWN and work on the sails.</string>
+					<key>options</key>
+					<array>
+						<string>Sit down </string>
+						<string>Stand in a line</string>
+						<string>Stop talking</string>
+						<string>Pull down</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>She KNOWS THE ROPES of her dad&apos;s business.</string>
+					<key>options</key>
+					<array>
+						<string>aware about finacial accounts</string>
+						<string>knows all details</string>
+						<string>knowladgeable about forecoming challenges</string>
+						<string>has business contacts</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Zareen refused TO THROW IN THE TOWEL even when she fractured her left leg.</string>
+					<key>options</key>
+					<array>
+						<string>To stop playing</string>
+						<string>Lose all hope</string>
+						<string>To concede defeat</string>
+						<string>To take rest</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Charlie wants us to have A DRY RUN before we get up on stage tommarow morning</string>
+					<key>options</key>
+					<array>
+						<string>Dinner party without drinks</string>
+						<string>Jog arround and exercise </string>
+						<string>To sit and discuss</string>
+						<string>Rehearsal</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>People always tell THIRD TIME&apos;S A CHARM but one needs a lot of patience for it.</string>
+					<key>options</key>
+					<array>
+						<string>Third try is a success</string>
+						<string>To keep trying for 3 or 4 times</string>
+						<string>Not to keep trying</string>
+						<string>Third try is lucky one</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Kind people in India are A DIME A DOZEN</string>
+					<key>options</key>
+					<array>
+						<string>very rare</string>
+						<string>in a perticular area</string>
+						<string>can be found in common</string>
+						<string>hung out together</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>Sentence Correction</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>We were still standing in the queue when the film WAS BEGINNING</string>
+					<key>options</key>
+					<array>
+						<string>begins</string>
+						<string>had begun</string>
+						<string>is beginning</string>
+						<string>has begun</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Parents are the first role-modek for ALL CHILD. They just replicate our actions.</string>
+					<key>options</key>
+					<array>
+						<string>each children </string>
+						<string>every child</string>
+						<string>all child</string>
+						<string>all</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Slated to begin this year, this league could provide the SONEEDED boost to hockey in India</string>
+					<key>options</key>
+					<array>
+						<string>much-needy</string>
+						<string>much-needed</string>
+						<string>needful</string>
+						<string>needed</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>ALTHOUGH complete treatement of cancer is beyond the reach of the underprivilaged, no child should lose his/her life because they don&apos;t have the necessary funds.</string>
+					<key>options</key>
+					<array>
+						<string>Though</string>
+						<string>Because</string>
+						<string>Since</string>
+						<string>Noerror</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Unfortunately many of our towns and cities do HAVE MORE GOOD transportation systems:</string>
+					<key>options</key>
+					<array>
+						<string>have a good</string>
+						<string>not have good </string>
+						<string>not have much good</string>
+						<string>not having better</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Had I know the way to your home, I SHOULD HAVE  reached earlier</string>
+					<key>options</key>
+					<array>
+						<string>would have</string>
+						<string>must have</string>
+						<string>have</string>
+						<string>wouldn&apos;t have</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The little boy was so excited to SEEN AN ANIMALS in the zoo.</string>
+					<key>options</key>
+					<array>
+						<string>see many animals</string>
+						<string>many animals</string>
+						<string>see animal</string>
+						<string>see many animal</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Had I realised the nature of the job, I would HAD GIVEN IT a second thought.</string>
+					<key>options</key>
+					<array>
+						<string>give it</string>
+						<string>be giving it </string>
+						<string>have given it </string>
+						<string>gave it</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>We were still standing in the queue when the film WAS BEGINNING</string>
+					<key>options</key>
+					<array>
+						<string>begins</string>
+						<string>had begun</string>
+						<string>is beginning</string>
+						<string>has begun</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Parents are the first role-model for ALL CHILD. They just replicate our actions.</string>
+					<key>options</key>
+					<array>
+						<string>each children</string>
+						<string>every child</string>
+						<string>all childs</string>
+						<string>all</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>Spell Check</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Entomologist</string>
+						<string>Choreographer</string>
+						<string>Anthropologist</string>
+						<string>Musician</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Barbeque</string>
+						<string>Barbarrous</string>
+						<string>Barricade</string>
+						<string>Bartender</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Concieve</string>
+						<string>Connivance</string>
+						<string>Conveene</string>
+						<string>Condector</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Efficient</string>
+						<string>Treatmeant</string>
+						<string>Beterment</string>
+						<string>Employd</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Foreign</string>
+						<string>Foreine</string>
+						<string>Fariegn</string>
+						<string>Forein</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Ommineous</string>
+						<string>Ominious</string>
+						<string>Omenous</string>
+						<string>Ominous</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Passenger</string>
+						<string>Pasenger</string>
+						<string>Peseanger</string>
+						<string>Pessenger</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Crescendo</string>
+						<string>Cresendo</string>
+						<string>Crecendo</string>
+						<string>Crascendo</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Langor</string>
+						<string>Langour</string>
+						<string>Languour</string>
+						<string>Languor</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Find the wrongly spelt word</string>
+					<key>options</key>
+					<array>
+						<string>Reclammation</string>
+						<string>Reclaimation</string>
+						<string>Reclamation</string>
+						<string>Reclaimmation</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>TopicName</key>
+			<string>Verbal Analogies</string>
+			<key>Meterial</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>Star:Sky::Fish:</string>
+					<key>options</key>
+					<array>
+						<string>Land</string>
+						<string>Earth</string>
+						<string>Water</string>
+						<string>Sand</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Zenith:Nadir::Pinnacle:</string>
+					<key>options</key>
+					<array>
+						<string>Valley</string>
+						<string>Hole</string>
+						<string>Volcano</string>
+						<string>Depth</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Hunger:Food::.......:Water</string>
+					<key>options</key>
+					<array>
+						<string>Thirsty</string>
+						<string>Quench</string>
+						<string>Liquid</string>
+						<string>Thirst</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Toe:Foot::Finger:</string>
+					<key>options</key>
+					<array>
+						<string>Hand</string>
+						<string>Arm</string>
+						<string>Elbow</string>
+						<string>Palm</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Bottle:Cork::Jar:</string>
+					<key>options</key>
+					<array>
+						<string>Close</string>
+						<string>Lid</string>
+						<string>Plate</string>
+						<string>Vessel</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Five:Pentagon::Seven:</string>
+					<key>options</key>
+					<array>
+						<string>Hexagon</string>
+						<string>Heptagon</string>
+						<string>Quadrilateral</string>
+						<string>Nonagon</string>
+					</array>
+					<key>answer</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Radio:Phonograph::</string>
+					<key>options</key>
+					<array>
+						<string>Picture:painting</string>
+						<string>television:show</string>
+						<string>movie:photograph</string>
+						<string>brush:canvas</string>
+					</array>
+					<key>answer</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Urge:insist::</string>
+					<key>options</key>
+					<array>
+						<string>purse:hound</string>
+						<string>refuse:deny</string>
+						<string>expunge:purge</string>
+						<string>request:demand</string>
+					</array>
+					<key>answer</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>island:ocean::</string>
+					<key>options</key>
+					<array>
+						<string>hill:stream</string>
+						<string>forest:valley</string>
+						<string>oasis:desert</string>
+						<string>tree:field</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>handcuffs:prisoner::</string>
+					<key>options</key>
+					<array>
+						<string>rope:knot</string>
+						<string>shoes:feet</string>
+						<string>leash:dog</string>
+						<string>ring:finger</string>
+					</array>
+					<key>answer</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
